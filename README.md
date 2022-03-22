@@ -9,6 +9,8 @@ Each chapter presents a case in which analytics helped unravel a story and answe
 
 While the author provides all of his analyses for each chapter in excel, here we seek to provide the python equivalent in the form of jupyter notebooks. 
 
-Whenever possible, we fill in the gaps and provide additional insights, analysis, and visualizations.
+Whenever possible, we fill in the gaps and provide additional insights, analysis, and visualizations, and do a deeper dive.
+
+Please note that not every chapter will be featured.
 
 All files and descriptions can be found by visiting the books' main page: https://www.wiley.com/en-us/Analytics+Stories%3A+Using+Data+to+Make+Good+Things+Happen-p-9781119646044
