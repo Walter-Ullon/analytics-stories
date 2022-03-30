@@ -1,6 +1,8 @@
 # analytics-stories
 Case studies (in python) from Wayne L. Winston's book "Analytics Stories".
 
+https://www.amazon.com/Analytics-Stories-Using-Things-Happen/dp/1119646030
+
 Each chapter presents a case in which analytics helped unravel a story and answer:
 1. what happened?
 2. what will happen?
