@@ -1,5 +1,5 @@
 # analytics-stories
-Case studies (in python) from Wayne L. Winston's book "Analytics Stories".
+Case studies (in python) from Wayne L. Winston's book "Analytics Stories", as well as those taken from industry and personal experience.
 
 https://www.amazon.com/Analytics-Stories-Using-Things-Happen/dp/1119646030
 
@@ -9,7 +9,7 @@ Each chapter presents a case in which analytics helped unravel a story and answe
 3. why did it happen?
 4. how do I make good things happen?
 
-While the author provides all of his analyses for each chapter in excel, here we seek to provide the python equivalent in the form of jupyter notebooks. 
+While the author provides all of his analyses for each chapter in excel, here we seek to provide the python equivalent in the form of jupyter notebooks.
 
 Whenever possible, we fill in the gaps and provide additional insights, analysis, and visualizations, and do a deeper dive.
 
